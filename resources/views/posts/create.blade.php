@@ -6,8 +6,6 @@
 
 <h1>New Post</h1>
 
-<h1>New Post</h1>
-
 @if ($errors->any())
     <div class="alert alert-danger">
         <ul>
